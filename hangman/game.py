@@ -9,7 +9,7 @@ import random
 ###             CODE             ###
 ####################################
 # Complete with your own, just for fun :)
-LIST_OF_WORDS = []
+LIST_OF_WORDS = ['Tesla', 'drone', 'python', 'monty', 'programming', 'sleep', 'coffee']
 
 
 def _get_random_word(list_of_words):
